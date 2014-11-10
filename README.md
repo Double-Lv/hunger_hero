@@ -11,3 +11,5 @@ hunger_hero
 * labels
 * particle
 * ccpool
+
+在线演示地址：[demo](http://idoube.com/proj/hero)
