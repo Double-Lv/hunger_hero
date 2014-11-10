@@ -1,0 +1,28 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 1,
+
+    "jsList" : [
+        "src/resource.js",
+        "src/GameConstants.js",
+        "src/Game.js",
+        "src/scene/MenuScene.js",
+        "src/scene/AboutScene.js",
+        "src/scene/GameScene.js",
+        "src/Sound.js",
+        "src/ui/SoundButton.js",
+        "src/ui/GameSceneUI.js",
+        "src/ui/GameOverUI.js",
+        "src/elements/GameBackground.js",
+        "src/elements/Hero.js",
+        "src/elements/Item.js",
+        "src/elements/Obstacle.js",
+        "src/logic/FoodManager.js",
+        "src/logic/ObstacleManager.js"
+    ]
+}
